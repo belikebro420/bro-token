@@ -1,0 +1,12 @@
+{
+  "name": "Be Like Bro",
+  "symbol": "BRO",
+  "description": "$BRO token is a memecoin on Solana network built upon the legacy of Be Like Bro meme, a popular internet character.",
+  "image": "https://4gzm33pkf4jzx4eaxkh7jyuzl4gqwspggziyggvrcxjj5oyu52da.arweave.net/4bLN7eovE5vwgLqP9OKZXw0LSeY2UYMasRXSnrsU7oY",
+  "extensions": {
+    "website": "https://belikebro.org",
+    "twitter": "https://twitter.com/belikebro420",
+    "telegram": "https://t.me/belikebro420"
+  },
+  "tags": ["BRO","MEME"]
+}
