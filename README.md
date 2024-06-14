@@ -25,3 +25,5 @@ Symbol: BRO
 Total Supply: 420M
 
 Blockchain: Solana
+
+Launch Date: 26.05.2024
